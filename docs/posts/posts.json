@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2021-06-17-hello-world/",
+    "title": "Hello World",
+    "description": "hi there - first post",
+    "author": [
+      {
+        "name": "E Newman",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-06-17",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\nHere I am blogging about nothing… remember to knit the files before building!!!\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-17T10:41:53-07:00",
+    "input_file": "hello-world.knit.md"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "welcome to my blog... for what it's worth",
+    "description": "blah blah blah",
+    "author": [
+      {
+        "name": "Elaine N",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-06-17",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-17T10:41:12-07:00",
+    "input_file": "welcome.knit.md"
+  }
+]
